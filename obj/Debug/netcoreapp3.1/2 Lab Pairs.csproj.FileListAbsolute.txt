@@ -9,3 +9,14 @@ C:\Users\tules\Documents\Study\Labs and practice\2 Curse\2 Semestr\SOFTWARE deve
 C:\Users\tules\Documents\Study\Labs and practice\2 Curse\2 Semestr\SOFTWARE development tools\2 Lab Pairs\obj\Debug\netcoreapp3.1\2 Lab Pairs.AssemblyInfo.cs
 C:\Users\tules\Documents\Study\Labs and practice\2 Curse\2 Semestr\SOFTWARE development tools\2 Lab Pairs\obj\Debug\netcoreapp3.1\2 Lab Pairs.dll
 C:\Users\tules\Documents\Study\Labs and practice\2 Curse\2 Semestr\SOFTWARE development tools\2 Lab Pairs\obj\Debug\netcoreapp3.1\2 Lab Pairs.pdb
+C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs\SOFTWARE_Lab2_Pairs\obj\Debug\netcoreapp3.1\2 Lab Pairs.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs\SOFTWARE_Lab2_Pairs\obj\Debug\netcoreapp3.1\2 Lab Pairs.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs\SOFTWARE_Lab2_Pairs\obj\Debug\netcoreapp3.1\2 Lab Pairs.AssemblyInfo.cs
+C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs\SOFTWARE_Lab2_Pairs\obj\Debug\netcoreapp3.1\2 Lab Pairs.dll
+C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs\SOFTWARE_Lab2_Pairs\obj\Debug\netcoreapp3.1\2 Lab Pairs.pdb
+C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs\SOFTWARE_Lab2_Pairs\bin\Debug\netcoreapp3.1\2 Lab Pairs.exe
+C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs\SOFTWARE_Lab2_Pairs\bin\Debug\netcoreapp3.1\2 Lab Pairs.deps.json
+C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs\SOFTWARE_Lab2_Pairs\bin\Debug\netcoreapp3.1\2 Lab Pairs.runtimeconfig.json
+C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs\SOFTWARE_Lab2_Pairs\bin\Debug\netcoreapp3.1\2 Lab Pairs.runtimeconfig.dev.json
+C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs\SOFTWARE_Lab2_Pairs\bin\Debug\netcoreapp3.1\2 Lab Pairs.dll
+C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs\SOFTWARE_Lab2_Pairs\bin\Debug\netcoreapp3.1\2 Lab Pairs.pdb

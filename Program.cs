@@ -6,7 +6,8 @@ namespace _2_Lab_Pairs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Sum.Summator(1.1, 3.9));
+            Sum.Summator(1.1, 3.9);
+            Sum.Print();
         }
     }
 }
